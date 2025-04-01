@@ -1,1 +1,0 @@
-# IFB452-Blockchain-Technology-Practical
