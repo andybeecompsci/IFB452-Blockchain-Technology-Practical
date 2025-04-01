@@ -8,3 +8,7 @@ contract HelloWorld {
     }
 }
 
+// public = anyone can call it 
+// pure = doesnt read or modify any stat variables
+
+// using pure bc doesnt need to interact w blockhain state (r/w), uses less gas
